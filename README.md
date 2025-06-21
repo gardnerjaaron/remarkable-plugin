@@ -1,0 +1,1 @@
+This is a simple plugin for Obsidian. It should work with all reMarkable devices, but has only been tested on reMarkable 1. Right-click and select "Insert Screenshot" to capture the screen buffer from the device and insert it into your note. This plugin works even better when used with obsidian-image-converter for cropping and modifying images.
