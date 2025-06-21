@@ -1,0 +1,11 @@
+{
+	"id": "remarkable-Screenshot-plugin",
+	"name": "RMScreenshot",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin is for the remarkable device when used over the usb interface to take a screen shot of that remarkable screen and add it to yoru absidian notes",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true
+}
